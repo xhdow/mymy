@@ -1,0 +1,11 @@
+{
+  "directories": [
+    "F:/Project/Python/my/dist",
+    "F:/Project/Python/netFile2/dist",
+    "F:/Project/Python/cms/dist",
+    {
+      "path": "F:/Project/Java/sebook/dist",
+      "filters": ["sebook.jar"]
+    }
+  ]
+}
